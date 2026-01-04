@@ -1,5 +1,7 @@
 # 📝 Todo List API
 
+![Node.js](https://img.shields.io/badge/Node.js-green) ![Express.js](https://img.shields.io/badge/Express.js-black) ![MongoDB](https://img.shields.io/badge/MongoDB-green)
+
 A robust RESTful API built with **Node.js**, **Express**, and **MongoDB** for managing daily tasks.
 
 ## 🛠️ Tech Stack
@@ -80,3 +82,4 @@ npm start
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsedkyy/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedSedkyy)
+
